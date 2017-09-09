@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from django.http import HttpResponse
 from django.shortcuts import render
 
@@ -6,8 +5,4 @@ from django.shortcuts import render
 
 def test(request):
     return HttpResponse('ok')
-=======
-from django.shortcuts import render
 
-# Create your views here.
->>>>>>> xuetao
